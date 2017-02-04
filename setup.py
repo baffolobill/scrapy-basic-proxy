@@ -31,7 +31,6 @@ setup(
     description='Scrapy Middleware to set a proxy for every Request.',
 
     author=author,
-    author_email=email,
     url='https://github.com/baffolobill/scrapy-basic-proxy',
 
     license=license,
